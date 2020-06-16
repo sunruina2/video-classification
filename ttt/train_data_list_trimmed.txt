@@ -1,0 +1,7 @@
+/Users/sunruina/Documents/py_project/oversea_low_detection/data/case_samples/150000121500060.mp4
+/Users/sunruina/Documents/py_project/oversea_low_detection/data/case_samples/150000121504271.mp4
+/Users/sunruina/Documents/py_project/oversea_low_detection/data/case_samples/150000121507050.mp4
+/Users/sunruina/Documents/py_project/oversea_low_detection/data/case_samples/150000121512589.mp4
+/Users/sunruina/Documents/py_project/oversea_low_detection/data/case_samples/150000121513505.mp4
+/Users/sunruina/Documents/py_project/oversea_low_detection/data/case_samples/150000121513538.mp4
+/Users/sunruina/Documents/py_project/oversea_low_detection/data/case_samples/v_ThrowDiscus_g25_c05.avi
